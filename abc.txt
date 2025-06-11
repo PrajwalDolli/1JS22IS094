@@ -22,5 +22,7 @@ public class LoginTest {
         driver.quit();
     }
 }
+cd path
+java -jar jenkins.war
 username:- shreyascoder464
 password:-shreyascoder444
